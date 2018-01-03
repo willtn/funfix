@@ -16,6 +16,7 @@
     "tests",
     "src",
     "common",
+    "docs",
     "packages/funfix",
     "packages/funfix-effect",
     "packages/funfix-exec",
