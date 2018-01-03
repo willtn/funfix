@@ -14,6 +14,16 @@
     "bower_components",
     "test",
     "tests",
-    "src"
+    "src",
+    "common",
+    "packages/funfix",
+    "packages/funfix-effect",
+    "packages/funfix-exec",
+    "packages/funfix-types",
+    "disjunctions.*",
+    "errors.*",
+    "es5.*",
+    "index.*",
+    "std.*"
   ]
 }
