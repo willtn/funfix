@@ -17,6 +17,7 @@
     "src",
     "common",
     "docs",
+    "scripts",
     "packages/funfix",
     "packages/funfix-effect",
     "packages/funfix-exec",
@@ -25,6 +26,7 @@
     "errors.*",
     "es5.*",
     "index.*",
-    "std.*"
+    "std.*",
+    "rollup.*"
   ]
 }
